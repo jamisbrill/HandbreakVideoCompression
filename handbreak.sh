@@ -1,4 +1,3 @@
-  GNU nano 2.9.3                                                                     handbrake.sh                                                                                
 #!/bin/bash
 
 SRC=/home/jam/hdd/SambaShare/Render-Input      //src folder
