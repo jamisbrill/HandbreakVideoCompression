@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SRC=/home/jam/hdd/SambaShare/Render-Input      //src folder
+SRC=/home/jam/hdd/SambaShare/Render-Input      //source folder
 DEST=/home/jam/hdd/SambaShare/Render-Output     //destination folder
 DEST_EXT=mp4
 HANDBRAKE_CLI=HandBrakeCLI
