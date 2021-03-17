@@ -7,5 +7,6 @@ Requires Handbreak to be installed , intended for Linux systems .
 4.  apt-get install handbrake-cli
 5.  chmod +x handbreak.sh
 6.  sudo ./handbreak.sh
+7.  Remember to adjust the Src file and Dest File 
 
 
