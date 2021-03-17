@@ -9,4 +9,7 @@ Requires Handbreak to be installed , intended for Linux systems .
 6.  sudo ./handbreak.sh
 7.  Remember to adjust the Src location and Dest location 
 
+Tips : use "pwd" to find your current directory 
+
+
 
